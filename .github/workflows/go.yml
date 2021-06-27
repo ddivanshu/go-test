@@ -14,4 +14,4 @@ jobs:
     - uses: actions/checkout@v2
     
     - name: Setup Go environment
-      uses: actions/setup-go@8ae4db58f50189af5f978c184e515240be7a76f3
+      uses: actions/setup-go@37335c7bb261b353407cff977110895fa0b4f7d8
